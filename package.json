@@ -3,6 +3,10 @@
   "displayName": "Please, no rotation tab switching",
   "description": "Extentions to prevent vscode from rotating in tab group. Since there is no config for it. This extention provides two commands: `please-no-rotation-tab-switching.nextTab` and `please-no-rotation-tab-switching.prevTab`. Call \"nextTab\" on the last tab - no effect. Same for \"prevTab\" on the first tab. It's so good to have some limitations!",
   "publisher": "vasilyator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasyan/please-no-rotation-tab-switching"
+  },
   "author": {
     "name": "Vasily Styazhkin",
     "email": "vasilyator@gmail.com",
